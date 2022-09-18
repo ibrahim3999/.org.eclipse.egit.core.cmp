@@ -9,6 +9,6 @@
 The project starts from a TXT file and receives only the drawing data and you can also add to the file
 
 ## how to run my project:
-<img src="">
+<img src="https://github.com/ibrahim3999/Drawing-geometric-shapes/blob/master/pic/how%20to%20Run%20my%20project.jpg">
 
  
